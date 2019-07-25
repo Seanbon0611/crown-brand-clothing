@@ -21,10 +21,10 @@ class Directory extends React.Component {
                 linkUrl: 'shop/jackets'
               },
               {
-                title: 'sneakers',
+                title: 'Shoes',
                 imageUrl: 'https://i.ibb.co/0jqHpnp/sneakers.png',
                 id: 3,
-                linkUrl: 'shop/sneakers'
+                linkUrl: 'shop/shoes'
               },
               {
                 title: 'womens',

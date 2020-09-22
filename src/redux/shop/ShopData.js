@@ -183,7 +183,7 @@ const ShopData = [
       },
       {
         id: 27,
-        name: 'Striped Sweater',
+        name: 'd Sweater',
         imageUrl: 'https://i.ibb.co/KmSkMbH/striped-sweater.png',
         price: 45
       },

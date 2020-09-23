@@ -1,0 +1,24 @@
+.contact-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  animation: slideLeft 0.75s ease both;
+  .socials {
+    display: flex;
+    align-items: center;
+    .linkedin {
+      padding-right: 20px;
+    }
+  }
+}
+
+@keyframes slideLeft {
+  0% {
+    opacity: 0;
+    transform: translateX(-300px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
